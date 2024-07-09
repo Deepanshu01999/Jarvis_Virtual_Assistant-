@@ -3,20 +3,20 @@
 
 **FEATURES**
 
-• Voice Recognition
-• Utilizes the speech_recognition library to listen for and recognize voice commands.
-• Activates upon detecting the wake word "Jarvis."
-• Text-to-Speech
-• Converts text to speech using pyttsx3 for local conversion.
-• Web Browsing.
-• Opens websites like Google, Facebook, YouTube, and LinkedIn based on voice commands.
-• Music Playback
-• Interfaces with a musicLibrary module to play songs via web links.
-• News Fetching
-• Fetches and reads the latest news headlines using NewsAPI.
-• Acts as a general virtual assistant similar to Alexa or Google Assistant.
-• Activates upon detecting the wake word "Jarvis."
-• Text-to-Speech
+1. Voice Recognition
+2. Utilizes the speech_recognition library to listen for and recognize voice commands.
+3. Activates upon detecting the wake word "Jarvis."
+4. Text-to-Speech
+5. Converts text to speech using pyttsx3 for local conversion.
+6. Web Browsing.
+7. Opens websites like Google, Facebook, YouTube, and LinkedIn based on voice commands.
+8. Music Playback
+9. Interfaces with a musicLibrary module to play songs via web links.
+10. News Fetching
+11. Fetches and reads the latest news headlines using NewsAPI.
+12. Acts as a general virtual assistant similar to Alexa or Google Assistant.
+13. Activates upon detecting the wake word "Jarvis."
+14. Text-to-Speech
 
 **WORKFLOW**
 
